@@ -1,5 +1,10 @@
 <template>
   <div id="app">
+    <div class="row">
+      <div class="col-md-12">
+        Prueba Bootstrap
+      </div>
+    </div>
     <img src="./assets/logo.png">
     <router-view></router-view>
   </div>
@@ -20,4 +25,7 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+</style>
+<style lang="sass">
+
 </style>

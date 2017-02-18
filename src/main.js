@@ -3,6 +3,13 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import jQuery from 'jquery'
+import Bootstrap from 'bootstrap/dist/css/bootstrap.css'
+
+/* eslint-disable no-new */
+window.$ = jQuery
+window.jQuery = jQuery
+Bootstrap
 
 /* eslint-disable no-new */
 new Vue({

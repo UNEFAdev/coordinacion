@@ -52,6 +52,10 @@ module.exports = {
         loader: 'babel-loader',
         include: [resolve('src'), resolve('test')]
       },
+      { 
+        test: /\.scss$/, 
+        loaders: [ 'style-loader', 'css-loader', 'sass-loader' ] 
+      },      
       {
         test: /\.(png|jpe?g|gif|svg)(\?.*)?$/,
         loader: 'url-loader',
