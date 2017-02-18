@@ -11,6 +11,7 @@ window.$ = jQuery
 window.jQuery = jQuery
 Bootstrap
 
+/* eslint-disable no-new */
 new Vue({
   el: '#app',
   router,
