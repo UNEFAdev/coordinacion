@@ -1,3 +1,7 @@
+![Build](https://scrutinizer-ci.com/g/UNEFAdev/coordinacion/badges/build.png?b=master)
+![Code Climate](https://codeclimate.com/github/UNEFAdev/coordinacion.png)
+![Scrutinizer Quality Score](https://scrutinizer-ci.com/g/UNEFAdev/coordinacion/badges/quality-score.png?b=master)
+
 # coordsistemas
 
 > Site Coordinacion de Sistemas
