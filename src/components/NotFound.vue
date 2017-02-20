@@ -22,14 +22,14 @@
 
 <script>
 export default {
-  name: 'hello',
+  name: 'not-found',
   data () {
     return {
-      msg: 'Pagina de Inicio Editado'
+      msg: '404 Pagina no encontrada'
     }
   }
 }
-window.document.title = 'Coordinacion de Sistemas - Inicio'
+window.document.title = 'Coordinacion de Sistemas - 404'
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
